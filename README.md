@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jurasek18
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working with playwright and typescript/javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
